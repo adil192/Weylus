@@ -50,6 +50,7 @@ body, html, main {
     padding: 0;
     overflow: hidden;
     display: flex;
+    accent-color: #00aaff;
 }
 video {
     max-width: 100%;
